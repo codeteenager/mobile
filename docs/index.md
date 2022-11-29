@@ -4,6 +4,7 @@
 * [hybrid 远程调试的前世今生](https://juejin.cn/post/7153247297789231112)
 * [得到 Hybrid 架构的演进之路](https://juejin.cn/post/6844904049448321032)
 * [长安汽车移动应用前端架构探索](https://mp.weixin.qq.com/s/uEZ8IR9EQzSiGO6SamOgMw)
+* [性能提升30%以上, JDHybrid h5加载优化实践](https://juejin.cn/post/7120045012494057479)
 
 ## 技术分享
 * [美团客户端动态化实践](/mobile/pdf/美团客户端动态化实践.pdf)
