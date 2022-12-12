@@ -5,6 +5,10 @@
 * [得到 Hybrid 架构的演进之路](https://juejin.cn/post/6844904049448321032)
 * [长安汽车移动应用前端架构探索](https://mp.weixin.qq.com/s/uEZ8IR9EQzSiGO6SamOgMw)
 * [性能提升30%以上, JDHybrid h5加载优化实践](https://juejin.cn/post/7120045012494057479)
+* [转转Hybrid体系建设](https://mp.weixin.qq.com/s/jdCCKoOxeeJhdHxsU6RATw)
+* [支付宝移动端 Hybrid 解决方案探索与实践](https://mp.weixin.qq.com/s/7epb9fd7WI4fYU5liMVc3g)
+* [Hybrid 开发：JsBridge - Web和客户端的桥](https://mp.weixin.qq.com/s/IzvtPlJcKcHt82Td5UUxWA)
+* [Hybrid 应用中 H5 与 NA 通信的那点事儿](https://mp.weixin.qq.com/s/L4VzJGcO4PRs7YXxjKdusA)
 
 ## 技术分享
 * [美团客户端动态化实践](/mobile/pdf/美团客户端动态化实践.pdf)
