@@ -1,1 +1,0 @@
-import{_ as E,c as B,o as A,N as e}from"./chunks/framework.0a95322e.js";const b=JSON.parse('{"title":"分享","description":"","frontmatter":{},"headers":[],"relativePath":"guide/share.md","lastUpdated":1681015596000}'),i={name:"guide/share.md"},l=e("",13),a=[l];function f(r,d,p,t,F,o){return A(),B("div",null,a)}const m=E(i,[["render",f]]);export{b as __pageData,m as default};
